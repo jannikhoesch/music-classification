@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project aims to predict music genres using Spotify's song dataset. The notebook documents our approach, methodologies, and results, highlighting the effectiveness of various models in predicting music genres.
+This repository contains a university project that I created together with Annamaria Vas for the course Machine Learning at the Universitat Politècnica de Catalunya. The goal is to predict music genres using Spotify's song dataset. The notebook documents our approach, methodologies, and results, highlighting the effectiveness of various models in predicting music genres.
 
 ## Files
 
